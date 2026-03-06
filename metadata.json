@@ -1,0 +1,5 @@
+{
+  "name": "ServiceMarket",
+  "description": "A simple e-commerce marketplace for services with an admin panel for managing catalogs and discounts.",
+  "requestFramePermissions": []
+}
